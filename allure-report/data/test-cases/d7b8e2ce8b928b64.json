@@ -1,0 +1,227 @@
+{
+  "uid" : "d7b8e2ce8b928b64",
+  "name" : "test_valid_login",
+  "fullName" : "TestLogin.TestLogin#test_valid_login",
+  "historyId" : "a2236b796ac888e6fa15f74f703b6528",
+  "time" : {
+    "start" : 1653509616231,
+    "stop" : 1653509616795,
+    "duration" : 564
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "set_up",
+    "time" : {
+      "start" : 1653509482937,
+      "stop" : 1653509616227,
+      "duration" : 133290
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "60e7e42ca0170ae9",
+      "name" : "log",
+      "source" : "60e7e42ca0170ae9.txt",
+      "type" : "text/plain",
+      "size" : 371
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "set_up::0",
+    "time" : {
+      "start" : 1653509616797,
+      "stop" : 1653509619072,
+      "duration" : 2275
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "sanity"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('set_up')"
+  }, {
+    "name" : "suite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "MOE-7844593984"
+  }, {
+    "name" : "thread",
+    "value" : "11052-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestLogin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 13,
+        "unknown" : 0,
+        "total" : 13
+      },
+      "items" : [ {
+        "uid" : "be07e3b5c89e17d3",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/20/allure/#testresult/be07e3b5c89e17d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "23fa3ee61b35dbd2",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/19/allure/#testresult/23fa3ee61b35dbd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "2f1b72fcee4d95b",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/18/allure/#testresult/2f1b72fcee4d95b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "bdba0ab2cd135e48",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/17/allure/#testresult/bdba0ab2cd135e48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "6a941c90027099f",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/16/allure/#testresult/6a941c90027099f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "b5b6dcdfe6fbd81b",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/15/allure/#testresult/b5b6dcdfe6fbd81b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "1a61af3291957f5b",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/13/allure/#testresult/1a61af3291957f5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "ef852a58c12541d7",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/12/allure/#testresult/ef852a58c12541d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "f09b9e59687c1a99",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/11/allure/#testresult/f09b9e59687c1a99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "7d5afa1bbe3c586c",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/10/allure/#testresult/7d5afa1bbe3c586c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "e439505cfaba79",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/9/allure/#testresult/e439505cfaba79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      }, {
+        "uid" : "b13c9fd03e5b61f4",
+        "reportUrl" : "http://localhost:8080/job/TasaLogin/8/allure/#testresult/b13c9fd03e5b61f4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653509616231,
+          "stop" : 1653509616795,
+          "duration" : 564
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('set_up')", "sanity" ]
+  },
+  "source" : "d7b8e2ce8b928b64.json",
+  "parameterValues" : [ ]
+}
