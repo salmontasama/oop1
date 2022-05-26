@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "test_valid_login",
-    "uid" : "92c0804ace7e17b6",
+    "uid" : "d7b8e2ce8b928b64",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
@@ -16,7 +16,7 @@
     "parameters" : [ ]
   }, {
     "name" : "test_invalid_login_null_email",
-    "uid" : "2630b70bd3006638",
+    "uid" : "c6fd12cb043cd845",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {

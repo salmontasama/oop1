@@ -1,15 +1,5 @@
 [ {
-  "uid" : "92c0804ace7e17b6",
-  "name" : "test_valid_login",
-  "time" : {
-    "start" : 1653509616231,
-    "stop" : 1653509616795,
-    "duration" : 564
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2630b70bd3006638",
+  "uid" : "c6fd12cb043cd845",
   "name" : "test_invalid_login_null_email",
   "time" : {
     "start" : 1653509698089,
@@ -18,4 +8,14 @@
   },
   "status" : "broken",
   "severity" : "critical"
+}, {
+  "uid" : "d7b8e2ce8b928b64",
+  "name" : "test_valid_login",
+  "time" : {
+    "start" : 1653509616231,
+    "stop" : 1653509616795,
+    "duration" : 564
+  },
+  "status" : "passed",
+  "severity" : "normal"
 } ]

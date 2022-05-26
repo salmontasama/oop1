@@ -1,4 +1,88 @@
 [ {
+  "buildOrder" : 20,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 64338494
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 64266096
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/17/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 64198649
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/16/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 64044681
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/15/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 87186
+  }
+}, {
   "buildOrder" : 49,
   "reportUrl" : "http://localhost:8080/job/first/49/allure",
   "reportName" : "AllureReport",

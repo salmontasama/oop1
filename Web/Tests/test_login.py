@@ -38,8 +38,8 @@ class Test_Login(Base):
         driver = self.driver
         login = LoginPage(driver)
         login.enter_email(MA.valid_email)
-        time.sleep(3)
         login.click_send()
+        time.sleep(5)
         x = driver.switch_to.alert
         a = x.text
-        assert a == 'Check your password or email'
+        assert a == "Check your password or email"
