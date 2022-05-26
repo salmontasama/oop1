@@ -1,0 +1,94 @@
+{
+  "42b2cd7447cf6b07fb2bdc522f96edb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6c0feb78ff08a2e3",
+      "reportUrl" : "http://localhost:8080/job/first/38/allure/#testresult/6c0feb78ff08a2e3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1653466579685,
+        "stop" : 1653466579685,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ba79624c5e3d258b",
+      "reportUrl" : "http://localhost:8080/job/first/37/allure/#testresult/ba79624c5e3d258b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1653466529406,
+        "stop" : 1653466529406,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a2236b796ac888e6fa15f74f703b6528" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92c0804ace7e17b6",
+      "reportUrl" : "http://localhost:8080/job/first/51/allure/#testresult/92c0804ace7e17b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653509616231,
+        "stop" : 1653509616795,
+        "duration" : 564
+      }
+    } ]
+  },
+  "15f536d5b8437c84e7e93896eecefbab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2630b70bd3006638",
+      "reportUrl" : "http://localhost:8080/job/first/51/allure/#testresult/2630b70bd3006638",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: Check your password or email\nMessage: unexpected alert open: {Alert text : Check your password or email}\n  (Session info: chrome=101.0.4951.67)\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x0063B8F3+2406643]\n\tOrdinal0 [0x005CAF31+1945393]\n\tOrdinal0 [0x004BC748+837448]\n\tOrdinal0 [0x0050AE37+1158711]\n\tOrdinal0 [0x00504243+1131075]\n\tOrdinal0 [0x004DE636+976438]\n\tOrdinal0 [0x004DF546+980294]\n\tGetHandleVerifier [0x008A9612+2498066]\n\tGetHandleVerifier [0x0089C920+2445600]\n\tGetHandleVerifier [0x006D4F2A+579370]\n\tGetHandleVerifier [0x006D3D36+574774]\n\tOrdinal0 [0x005D1C0B+1973259]\n\tOrdinal0 [0x005D6688+1992328]\n\tOrdinal0 [0x005D6775+1992565]\n\tOrdinal0 [0x005DF8D1+2029777]\n\tBaseThreadInitThunk [0x7612FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77D47A7E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77D47A4E+238]",
+      "time" : {
+        "start" : 1653509698089,
+        "stop" : 1653509703417,
+        "duration" : 5328
+      }
+    } ]
+  },
+  "9fe1a1aa99a842de0516ca607da54556" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87947495406d2ad1",
+      "reportUrl" : "http://localhost:8080/job/first/40/allure/#testresult/87947495406d2ad1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467159927,
+        "stop" : 1653467160419,
+        "duration" : 492
+      }
+    } ]
+  }
+}

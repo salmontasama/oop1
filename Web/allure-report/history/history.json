@@ -1,0 +1,53 @@
+{
+  "42b2cd7447cf6b07fb2bdc522f96edb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6c0feb78ff08a2e3",
+      "reportUrl" : "http://localhost:8080/job/first/38/allure/#testresult/6c0feb78ff08a2e3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1653466579685,
+        "stop" : 1653466579685,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ba79624c5e3d258b",
+      "reportUrl" : "http://localhost:8080/job/first/37/allure/#testresult/ba79624c5e3d258b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: 'chromedriver.exe' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home",
+      "time" : {
+        "start" : 1653466529406,
+        "stop" : 1653466529406,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9fe1a1aa99a842de0516ca607da54556" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87947495406d2ad1",
+      "reportUrl" : "http://localhost:8080/job/first/40/allure/#testresult/87947495406d2ad1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467159927,
+        "stop" : 1653467160419,
+        "duration" : 492
+      }
+    } ]
+  }
+}
