@@ -1,20 +1,30 @@
 [ {
-  "uid" : "2630b70bd3006638",
-  "name" : "test_invalid_login_null_email",
+  "uid" : "b4c3ad7e4ab440f6",
+  "name" : "test_invalid_login_null_password",
   "time" : {
-    "start" : 1653509698089,
-    "stop" : 1653509703417,
-    "duration" : 5328
+    "start" : 1653600176693,
+    "stop" : 1653600180043,
+    "duration" : 3350
   },
   "status" : "broken",
-  "severity" : "critical"
+  "severity" : "normal"
 }, {
-  "uid" : "92c0804ace7e17b6",
+  "uid" : "3a6f16ac9013f191",
   "name" : "test_valid_login",
   "time" : {
-    "start" : 1653509616231,
-    "stop" : 1653509616795,
-    "duration" : 564
+    "start" : 1653600152717,
+    "stop" : 1653600153179,
+    "duration" : 462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9fd757ce9fe155ba",
+  "name" : "test_invalid_login_null_email",
+  "time" : {
+    "start" : 1653600162236,
+    "stop" : 1653600167509,
+    "duration" : 5273
   },
   "status" : "passed",
   "severity" : "normal"

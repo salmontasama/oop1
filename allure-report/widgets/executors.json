@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://localhost:8080/",
-  "buildOrder" : 51,
-  "buildName" : "firs #51",
-  "buildUrl" : "http://localhost:8080/job/first/51/",
+  "buildOrder" : 29,
+  "buildName" : "TasaLogin #29",
+  "buildUrl" : "http://localhost:8080/job/TasaLogin/29/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://localhost:8080/job/first/51/allure"
+  "reportUrl" : "http://localhost:8080/job/TasaLogin/29/allure"
 } ]

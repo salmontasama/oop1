@@ -1,3 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed May 25 23:13:36 IDT 2022","Wed May 25 23:13:36 IDT 2022","564","","TestLogin","TestLogin","","","test_valid_login",""
-"broken","Wed May 25 23:14:58 IDT 2022","Wed May 25 23:15:03 IDT 2022","5328","","TestLogin","TestLogin","","","test_invalid_login_null_email",""
+"passed","Fri May 27 00:22:32 IDT 2022","Fri May 27 00:22:33 IDT 2022","462","","test_login","Test_Login","","","test_valid_login",""
+"broken","Fri May 27 00:22:56 IDT 2022","Fri May 27 00:23:00 IDT 2022","3350","","test_login","Test_Login","","","test_invalid_login_null_password",""
+"passed","Fri May 27 00:22:42 IDT 2022","Fri May 27 00:22:47 IDT 2022","5273","","test_login","Test_Login","","","test_invalid_login_null_email",""
